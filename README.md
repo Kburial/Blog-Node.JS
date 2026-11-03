@@ -14,11 +14,11 @@ I learned a lot from this project, and I'm very happy with the results! =) Proje
 </div>
 
 <div align="center">
-
+  <img width="700" alt="Preview do projeto" src="https://github.com/user-attachments/assets/6173b05e-c45c-4a69-850e-09a2c2d1754c" />
 </div>
 
 <div align="center">
-
+  <img width="700" alt="Preview do projeto" src="https://github.com/user-attachments/assets/77a4cbd3-903f-4ffc-a620-5856dda20c4d" />
 </div>
 
 <div align="center">
