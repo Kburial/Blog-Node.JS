@@ -1,0 +1,28 @@
+
+<div class="bg-light p-5 rounded-lg m-3">
+  <h1 class="display-4">Conteúdo sobre tecnologia e programação</h1>
+  <p class="lead">Blog criado usando as tecnologias Node.js + Express + MongoDB.</p>
+  <hr class="my-4">
+  <p class="lead">Aprenda, explore e acompanhe conteúdos sobre desenvolvimento web, programação e tecnologia.
+  </p>
+  <a class="btn btn-primary btn-lg" href="/usuarios/registro" role="button">Crie uma Conta</a>
+</div>
+
+<hr>
+
+<h2>Postagens Recentes:</h2>
+
+{{#each postagens}}
+<div class="card mt-4" >
+    <div class="card-body">
+        <h3>{{titulo}}</h3>
+        <p>{{descricao}}</p>
+        <a href="/postagem/{{slug}}"><button class="btn btn-success">Leia mais</button></a>
+        <hr>
+        <small>Categoria: {{categoria.nome}}</small><br>
+        <small>Data de publicação: {{data}}</small>
+    </div>
+</div>
+{{else}}
+    <h5>Nenhuma Postagem</h5>
+{{/each}}    

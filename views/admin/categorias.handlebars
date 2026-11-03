@@ -1,0 +1,95 @@
+<h2>Lista de categorias:</h2>
+<hr>
+
+<a href="/admin/categorias/add">
+    <button class="btn btn-success">Nova categorias</button>
+</a>
+
+{{#each categorias}}
+
+    <div class="card mt-4">
+        <div class="card-body">
+
+            <h4>{{nome}}</h4>
+
+            <small>Slug: {{slug}}</small><br>
+            <small>Data de criação: {{date}}</small><br>
+
+            <!-- Botão Editar -->
+            <a href="/admin/categorias/edit/{{_id}}">
+                <button class="btn btn-success mt-4">
+                    Editar categoria
+                </button>
+            </a>
+
+            <br>
+            <!-- Botão Deletar -->
+            <button class="btn btn-danger mt-3"
+                    data-toggle="modal"
+                    data-target="#delete-cat-{{_id}}">
+                Deletar categoria
+            </button>
+
+            <!-- Modal -->
+            <div class="modal fade"
+                 id="delete-cat-{{_id}}"
+                 tabindex="-1"
+                 role="dialog"
+                 aria-hidden="true">
+
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+
+                        <div class="modal-header">
+                            <h5 class="modal-title">
+                                Deletar categoria
+                            </h5>
+
+                            <button type="button"
+                                    class="close"
+                                    data-dismiss="modal"
+                                    aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+
+                        <div class="modal-body">
+                            Tem certeza que deseja deletar esta categoria?
+                        </div>
+
+                        <div class="modal-footer">
+
+                            <form action="/admin/categorias/deletar" method="POST">
+
+                                <input type="hidden"
+                                       name="id"
+                                       value="{{_id}}">
+
+                                <button type="button"
+                                        class="btn btn-secondary"
+                                        data-dismiss="modal">
+                                    Cancelar
+                                </button>
+
+                                <button type="submit"
+                                        class="btn btn-danger">
+                                    Deletar
+                                </button>
+
+                            </form>
+
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+{{else}}
+
+    <p>Nenhuma categoria encontrada.</p>
+    
+{{/each}}
