@@ -6,5 +6,5 @@ I learned a lot from this project, and I'm very happy with the results! =) Proje
 
 
 <div align="center">
-<img width="900" height="700" alt="Image" src="https://github.com/user-attachments/assets/f03bc6dd-378b-4938-b142-371d9e016cc2" />
+<img width="900" height="850" alt="Image" src="https://github.com/user-attachments/assets/f03bc6dd-378b-4938-b142-371d9e016cc2" />
 </div>
