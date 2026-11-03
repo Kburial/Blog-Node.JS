@@ -22,21 +22,34 @@ I learned a lot from this project, and I'm very happy with the results! =) Proje
 </div>
 
 <div align="center">
-
+  <img width="700" alt="Preview do projeto" src="https://github.com/user-attachments/assets/542a1381-ca45-4098-a7ab-7ef35a7fa4d2" />
 </div>
 
 <div align="center">
-
+  <img width="700" alt="Preview do projeto" src="https://github.com/user-attachments/assets/a52bedc3-06bf-4c69-836b-01511e00e221" />
 </div>
 
 <div align="center">
-
+  <img width="700" alt="Preview do projeto" src="https://github.com/user-attachments/assets/317c3a1a-509e-4f69-b8fd-5d5eb9d90135" />
 </div>
 
 <div align="center">
-
+  <img width="700" alt="Preview do projeto" src="https://github.com/user-attachments/assets/13bfaf42-692d-4e04-bec8-9e3a506b0ed3" />
 </div>
 
 <div align="center">
+  <img width="700" alt="Preview do projeto" src="https://github.com/user-attachments/assets/0db314ba-e3b9-4940-b54f-74437e5da5cb" />
+</div>
 
+
+<div align="center">
+  <img width="700" alt="Preview do projeto" src="https://github.com/user-attachments/assets/33f8bf76-3ba4-485d-aa59-d5eae005590d" />
+</div>
+
+<div align="center">
+  <img width="700" alt="Preview do projeto" src="https://github.com/user-attachments/assets/548224bd-edea-4797-b6aa-333bc3dcc57c" />
+</div>
+
+<div align="center">
+<img width="700" alt="Preview do projeto" src="https://github.com/user-attachments/assets/f605e219-3d6f-4412-b1aa-44bb00f3e8b2" />
 </div>
