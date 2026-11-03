@@ -8,3 +8,35 @@ I learned a lot from this project, and I'm very happy with the results! =) Proje
 <div align="center">
   <img width="700" alt="Preview do projeto" src="https://github.com/user-attachments/assets/f03bc6dd-378b-4938-b142-371d9e016cc2" />
 </div>
+
+<div align="center">
+ <img width="700" alt="Preview do projeto" src="https://github.com/user-attachments/assets/c2668001-6260-4f65-bb45-92a068be4b85" />
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+</div>
