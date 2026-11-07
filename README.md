@@ -17,22 +17,27 @@ I learned a lot from this project, and I'm very happy with the results! =) Proje
 
 <div align="center">
   <img width="700" alt="Preview do projeto" src="https://github.com/user-attachments/assets/6173b05e-c45c-4a69-850e-09a2c2d1754c" />
+  <p><em>Category deletion confirmation modal, allowing users to confirm or cancel the deletion of a category.</em></p>
 </div>
 
 <div align="center">
   <img width="700" alt="Preview do projeto" src="https://github.com/user-attachments/assets/77a4cbd3-903f-4ffc-a620-5856dda20c4d" />
+  <p><em>Home page displaying the blog introduction and a list of recent posts.</em></p>
 </div>
 
 <div align="center">
   <img width="700" alt="Preview do projeto" src="https://github.com/user-attachments/assets/542a1381-ca45-4098-a7ab-7ef35a7fa4d2" />
+  <p><em>Registration page where users can create an account by providing their name, email, and password.</em></p>
 </div>
 
 <div align="center">
   <img width="700" alt="Preview do projeto" src="https://github.com/user-attachments/assets/a52bedc3-06bf-4c69-836b-01511e00e221" />
+  <p><em>Login page where registered users can access their accounts using their email and password.</em></p>
 </div>
 
 <div align="center">
   <img width="700" alt="Preview do projeto" src="https://github.com/user-attachments/assets/317c3a1a-509e-4f69-b8fd-5d5eb9d90135" />
+  <p><em>User registration successfully completed, with a confirmation message displayed on the home page.</em></p>
 </div>
 
 <div align="center">
