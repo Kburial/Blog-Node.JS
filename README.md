@@ -51,10 +51,8 @@ I learned a lot from this project, and I'm very happy with the results! =) Proje
   <p><em>Successful user created</em></p>
 </div>
 
-<div align="center">
-  <img width="700" alt="Preview do projeto" src="https://github.com/user-attachments/assets/548224bd-edea-4797-b6aa-333bc3dcc57c" />
-</div>
 
 <div align="center">
 <img width="700" alt="Preview do projeto" src="https://github.com/user-attachments/assets/f605e219-3d6f-4412-b1aa-44bb00f3e8b2" />
+    <p><em>Logout</em></p>
 </div>
