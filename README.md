@@ -27,7 +27,7 @@ I learned a lot from this project, and I'm very happy with the results! =) Proje
 
 <div align="center">
   <img width="700" alt="Preview do projeto" src="https://github.com/user-attachments/assets/542a1381-ca45-4098-a7ab-7ef35a7fa4d2" />
-  <p><em>Registration page where users can create an account by providing their name, email, and password.</em></p>
+  <p><em>Categories created by the user</em></p>
 </div>
 
 <div align="center">
