@@ -42,10 +42,7 @@ I learned a lot from this project, and I'm very happy with the results! =) Proje
 
 <div align="center">
   <img width="700" alt="Preview do projeto" src="https://github.com/user-attachments/assets/13bfaf42-692d-4e04-bec8-9e3a506b0ed3" />
-</div>
-
-<div align="center">
-  <img width="700" alt="Preview do projeto" src="https://github.com/user-attachments/assets/0db314ba-e3b9-4940-b54f-74437e5da5cb" />
+  <p><em>Login page</em></p>
 </div>
 
 
