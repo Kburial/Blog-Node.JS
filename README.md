@@ -7,7 +7,7 @@ I learned a lot from this project, and I'm very happy with the results! =) Proje
 
 <div align="center">
   <img width="700" alt="Preview do projeto" src="https://github.com/user-attachments/assets/f03bc6dd-378b-4938-b142-371d9e016cc2" />
-   <p><em>Category management page, where users can view and manage registered categories.</em></p>
+   <p>Category management page, where users can view and manage registered categories.</p>
 </div>
 
 <div align="center">
