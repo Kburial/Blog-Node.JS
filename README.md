@@ -32,7 +32,7 @@ I learned a lot from this project, and I'm very happy with the results! =) Proje
 
 <div align="center">
   <img width="700" alt="Preview do projeto" src="https://github.com/user-attachments/assets/a52bedc3-06bf-4c69-836b-01511e00e221" />
-  <p><em>Login page where registered users can access their accounts using their email and password.</em></p>
+  <p><em>Registration page where users can create an account by providing their name, email, and password.</em></p>
 </div>
 
 <div align="center">
