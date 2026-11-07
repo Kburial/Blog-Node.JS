@@ -48,7 +48,7 @@ I learned a lot from this project, and I'm very happy with the results! =) Proje
 
 <div align="center">
   <img width="700" alt="Preview do projeto" src="https://github.com/user-attachments/assets/33f8bf76-3ba4-485d-aa59-d5eae005590d" />
-  <p><em>Successful login</em></p>
+  <p><em>Successful user created</em></p>
 </div>
 
 <div align="center">
